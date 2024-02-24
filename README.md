@@ -4,12 +4,12 @@ This is a simple React application that fetches and displays random pieces of ad
 
 ## Installation
 
-Install my-project with npm
+Install my project with npm
 
 1. Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/random-advice-generator.git
+  git clone https://github.com/florian-catalin-elisei/random-advice-generator.git
 ```
 
 2. Navigate to the project directory:
